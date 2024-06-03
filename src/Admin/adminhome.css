@@ -1,0 +1,54 @@
+.admin {
+    text-align: center;
+  }
+  
+  .navbar {
+    width: 100%;
+  }
+  
+  .avatar-img {
+    width: 35px; /* Adjust as needed */
+    height: 35px; /* Adjust as needed */
+    border-radius: 50%; /* To make the image circular */
+    margin-top: 2px;
+  }
+  
+  .sidenav .offcanvas-header {
+    background-color: #111;
+    color: white;
+  }
+  
+  .sidenav .offcanvas-body {
+    background-color: #111;
+    color: #818181;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+
+
+
+.welcome-text {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.avatar-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+  

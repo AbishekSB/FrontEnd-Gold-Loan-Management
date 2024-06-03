@@ -1,0 +1,30 @@
+.checkout-container {
+    margin-top: 50px;
+  }
+  
+  .checkout-header {
+    text-align: center;
+  }
+  
+  .total-amount {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .submit-button {
+    margin-top: 20px;
+  }
+  
+  /* Adjustments for smaller screens */
+  @media (max-width: 768px) {
+    .card {
+      margin: 0 10px;
+    }
+  }
+  

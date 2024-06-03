@@ -1,0 +1,48 @@
+.bg-image-vertical {
+    position: sticky;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 80%;
+    }
+    }
+    
+    /* .bg-color-white {
+        background-color: white;
+    }
+
+    .form-outline {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+ 
+.form-label {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  transition: all 0.3s ease;
+  pointer-events: none;
+  color: #999;
+}
+ 
+.form-control:focus + .form-label,
+.form-control:not(:placeholder-shown) + .form-label {
+  top: -10px;
+  left: 10px;
+  font-size: 0.85rem;
+  color: #000;
+}
+ 
+.password-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  cursor: pointer;
+  transform: translateY(-50%);
+} */

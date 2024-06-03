@@ -1,0 +1,14 @@
+
+  .logo {
+    background-image: url('https://t4.ftcdn.net/jpg/08/19/79/25/240_F_819792599_zknzjeG9xFwKEUgkSQwVYEDzIWCug5Yw.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100px; /* Adjust width as needed */
+    height: 40px; /* Adjust height as needed */
+  }
+  .blue-icon {
+    color: white;
+   
+  }
+
+  

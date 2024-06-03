@@ -1,0 +1,30 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css';
+
+.card {
+  border-radius: 15px;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-primary {
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+input:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border-color: rgba(81, 203, 238, 1);
+}
+
+.card-body {
+  transition: transform 0.3s ease;
+}
+
+.card-body:hover {
+  transform: scale(1.05);
+}
